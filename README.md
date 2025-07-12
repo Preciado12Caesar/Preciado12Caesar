@@ -4,4 +4,4 @@
 💻 Tecnologías: Java, HTML, CSS, TypeScript, C, JavaScript, SQL
 📚 Experiencia: Estudiante desde el 2023 en Instituto ISIL, especializado en Java
 🚀 Proyectos destacados: Colaborando en el desarrollo de una API con otros alumnos
-🎉 18 años
+🎉 19 años
